@@ -126,12 +126,14 @@ Hands-on **AI Engineer** specializing in end-to-end **Generative AI systems**, *
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarunkumar891&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Tarun's GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tarunkumar891&theme=tokyonight&hide_border=true" alt="Tarun's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tarunkumar891&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Tarun's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Tarunkumar891&theme=tokyonight&hide_border=true" alt="Tarun's GitHub Streak" width="49%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar891&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tarunkumar891&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
