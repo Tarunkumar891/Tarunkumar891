@@ -23,7 +23,7 @@ Hands-on **AI Engineer** specializing in end-to-end **Generative AI systems**, *
 - 🧠 **LLM Fine-Tuning & Alignment**: Specialized in fine-tuning open-source foundation models (*Llama 3, Mistral 7B*) with **PEFT (LoRA/QLoRA)**, **Unsloth**, **SFT**, and **DPO**, cutting GPU memory footprint by **60%** while accelerating training epochs.
 - ⚡ **Agentic RAG & Graph Retrieval**: Engineered cyclic agent state graphs via **LangGraph** with dual vector stores (**Pinecone & ChromaDB**) for sub-250ms API latency and benchmarked a **30% reduction** in hallucinations using **Ragas**.
 - ☁️ **Cloud, DevOps & FinOps**: Architected resilient cloud infrastructure across **AWS** and **GCP**, implementing automated FinOps cost-governance to maintain **99.8% uptime** within a lean budget.
-- 🚀 **Founder & Community Leader**: Built **[Internet Barrier](https://internetbarrier.in)** and founded an active **1,000+ member** developer Discord community delivering practical AI development mentorship.
+- 🚀 **Founder**: Architected and launched **[Internet Barrier](https://internetbarrier.in)**, an educational platform delivering accessible tooling, tutorials, and modern AI engineering workflows.
 
 ---
 
@@ -119,7 +119,6 @@ Hands-on **AI Engineer** specializing in end-to-end **Generative AI systems**, *
 - **Core Infrastructure**: Architected and deployed the end-to-end platform for [internetbarrier.in](https://internetbarrier.in), providing accessible tooling, tutorials, and practical AI engineering workflows.
 - **AI-Accelerated Engineering**: Built responsive web interfaces leveraging Cursor, v0, and Tailwind CSS, reducing UI iteration cycles by **65%**.
 - **Multi-Cloud FinOps**: Formulated automated cost-governance policies on AWS and GCP, rightsizing compute instances and executing scheduled shutdowns on idle workloads to maintain **99.8% uptime** within a lean budget.
-- **Community Mentorship**: Founded and actively lead a **1,000+ member** developer Discord community, conducting technical problem-solving sessions and peer code reviews on AI pipelines.
 
 ---
 
